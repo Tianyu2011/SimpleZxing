@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleZxing</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- zxing -->
+    <string name="open_sanqr">打开扫描二维码</string>
+    <string name="open_flashlight">打开闪光灯</string>
+    <string name="close_flashlight">关闭闪光灯</string>
+    <string name="open_image">选择图库</string>
+    <string name="msg_camera_framework_bug">很遗憾，Android 相机出现问题。你可能需要重启设备。</string>
+    <string name="button_ok">确定</string>
+    <string name="scan">扫一扫</string>
+    <string name="scan_tip">将取景框对准二维码即可自动扫描</string>
+    <string name="flashlight">闪光灯</string>
+    <string name="gallery">相册</string>
+    <string name="result_fail">解析失败，请重试！</string>
+
+</resources>
