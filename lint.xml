@@ -2,5 +2,6 @@
 <lint>
     <issue id="NewApi">
         <ignore path="src/com/ztiany2011/simplezxing/CaptureActivity.java" />
+        <ignore path="src/com/ztiany2011/simplezxing/ImageUntil.java" />
     </issue>
 </lint>
