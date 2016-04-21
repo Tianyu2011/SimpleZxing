@@ -1,111 +1,16 @@
 <resources>
 
-     <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
-    <dimen name="common_margin">16dp</dimen>
-    <dimen name="tab_height">55dip</dimen>
-    <dimen name="tab_img_width">28.0sp</dimen>
-    <dimen name="tab_img_width_2">36.0sp</dimen>
     <dimen name="top_height">50dp</dimen>
-    <dimen name="btn_height_long">50dp</dimen>
-    <dimen name="dialog_msg_size">12sp</dimen>
-    <dimen name="line_height">0.5dp</dimen>
-    <dimen name="msg_detail_list_item_head">52dp</dimen>
-    <dimen name="header_footer_left_right_padding">24dp</dimen>
-    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
-    <dimen name="indicator_right_padding">10dp</dimen>
-    <dimen name="indicator_corner_radius">12dp</dimen>
-    <dimen name="indicator_internal_padding">4dp</dimen>
 
-    <!-- listview的间隔线的距离 -->
-    <dimen name="view_line">1dp</dimen>
-    
-    <dimen name="dimen_0dp">0dp</dimen>
-    <dimen name="half_dip">0.5dp</dimen>
-    <dimen name="dimen_1dp">1dp</dimen>
-    <dimen name="dimen_1.5dp">1.5dp</dimen>
-    <dimen name="dimen_2dp">2dp</dimen>
-    <dimen name="dimen_3dp">3dp</dimen>
     <dimen name="dimen_4dp">4dp</dimen>
-    <dimen name="dimen_5dp">5dp</dimen>
-    <dimen name="dimen_6dp">6dp</dimen>
-    <dimen name="dimen_7dp">7dp</dimen>
-    <dimen name="dimen_8dp">8dp</dimen>
     <dimen name="dimen_10dp">10dp</dimen>
-    <dimen name="dimen_12dp">12dp</dimen>
-    <dimen name="dimen_14dp">14dp</dimen>
-    <dimen name="dimen_15dp">15dp</dimen>
     <dimen name="dimen_16dp">16dp</dimen>
-    <dimen name="dimen_18dp">18dp</dimen>
     <dimen name="dimen_20dp">20dp</dimen>
-    <dimen name="dimen_22dp">22dp</dimen>
-    <dimen name="dimen_24dp">24dp</dimen>
     <dimen name="dimen_25dp">25dp</dimen>
-    <dimen name="dimen_26dp">26dp</dimen>
-    <dimen name="dimen_28dp">28dp</dimen>
-    <dimen name="dimen_30dp">30dp</dimen>
-    <dimen name="dimen_32dp">32dp</dimen>
-    <dimen name="dimen_34dp">34dp</dimen>
-    <dimen name="dimen_36dp">36dp</dimen>
-    <dimen name="dimen_38dp">38dp</dimen>
-    <dimen name="dimen_40dp">40dp</dimen>
-    <dimen name="dimen_44dp">44dp</dimen>
-    <dimen name="dimen_48dp">48dp</dimen>
-    <dimen name="dimen_56dp">56dp</dimen>
-    <dimen name="dimen_50dp">50dp</dimen>
-    <dimen name="dimen_58dp">58dp</dimen>
-    <dimen name="dimen_60dp">60dp</dimen>
-    <dimen name="dimen_64dp">64dp</dimen>
-    <dimen name="dimen_68dp">68dp</dimen>
-    <dimen name="dimen_70dp">70dp</dimen>
     <dimen name="dimen_72dp">72dp</dimen>
-    <dimen name="dimen_76dp">76dp</dimen>
-    <dimen name="dimen_78dp">78dp</dimen>
-    <dimen name="dimen_80dp">80dp</dimen>
-    <dimen name="dimen_84dp">84dp</dimen>
-    <dimen name="dimen_88dp">88dp</dimen>
-    <dimen name="dimen_90dp">90dp</dimen>
-    <dimen name="dimen_95dp">95dp</dimen>
-    <dimen name="dimen_96dp">96dp</dimen>
-    <dimen name="dimen_100dp">100dp</dimen>
-    <dimen name="dimen_110dp">110dp</dimen>
     <dimen name="dimen_120dp">120dp</dimen>
-    <dimen name="dimen_130dp">130dp</dimen>
-    <dimen name="dimen_135dp">135dp</dimen>
-    <dimen name="dimen_140dp">140dp</dimen>
-    <dimen name="dimen_148dp">148dp</dimen>
-    <dimen name="dimen_150dp">150dp</dimen>
-    <dimen name="dimen_172dp">172dp</dimen>
-    <dimen name="dimen_180dp">180dp</dimen>
-    <dimen name="dimen_196dp">196dp</dimen>
-    <dimen name="dimen_200dp">200dp</dimen>
-    <dimen name="dimen_202dp">202dp</dimen>
-    <dimen name="dimen_210dp">210dp</dimen>
+    <dimen name="dimen_250dp">250dp</dimen>
     
-    <dimen name="dimen_8sp">8sp</dimen>
-    <dimen name="dimen_10sp">10sp</dimen>
-    <dimen name="dimen_11sp">11sp</dimen>
-    <dimen name="dimen_12sp">12sp</dimen>
-    <dimen name="dimen_13sp">13sp</dimen>
-    <dimen name="dimen_14sp">14sp</dimen>
-    <dimen name="dimen_15sp">15sp</dimen>
-    <dimen name="dimen_16sp">16sp</dimen>
-    <dimen name="dimen_17sp">17sp</dimen>
-    <dimen name="dimen_18sp">18sp</dimen>
-    <dimen name="dimen_19sp">19sp</dimen>
-    <dimen name="dimen_20sp">20sp</dimen>
-    <dimen name="dimen_21sp">21sp</dimen>
-    <dimen name="dimen_22sp">22sp</dimen>
-    <dimen name="dimen_23sp">23sp</dimen>
-    <dimen name="dimen_24sp">24sp</dimen>
-    <dimen name="dimen_25sp">25sp</dimen>
     <dimen name="dimen_26sp">26sp</dimen>
-    <dimen name="dimen_36sp">36sp</dimen>
-    <dimen name="dimen_40sp">40sp</dimen>
     
-    <dimen name="standard_padding">8dip</dimen>
-    <dimen name="half_padding">4dip</dimen>
-
-
 </resources>
